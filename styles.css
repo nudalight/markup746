@@ -1,0 +1,18 @@
+body {
+    font-family: "ProximaNovaCond-Semibold";
+}
+img {
+    max-width: 100%;
+}
+p {
+    text-align: justify;
+}
+@media all and (min-width: 480px) {
+    main {
+        padding: 0 2.5em !important;
+    }
+}
+
+.descriptor {
+    padding: 1.5em 0;
+}
